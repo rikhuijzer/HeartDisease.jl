@@ -37,6 +37,10 @@ Long Beach VA | 200
 Stalog (Heart) Data Set | 270
 **Total** | **1190**
 
+### License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0).
+
 ### Acknowledgements
 
 The dataset is taken from three other research datasets used in different research papers.
