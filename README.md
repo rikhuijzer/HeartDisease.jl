@@ -1,6 +1,6 @@
 # heart-disease-dataset
 
-UCI's Heart Disease Data Set.
+UCI's Heart Disease Data Set (https://doi.org/10.24432/C52P4X).
 
 Summarized into one file by Dustin Carrion at [openml.org](https://openml.org/search?type=data&status=active&id=43672).
 
