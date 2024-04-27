@@ -6,6 +6,19 @@ Summarized into one file by Dustin Carrion at [openml.org](https://openml.org/se
 
 ## Description
 
+### Features
+
+- age [years]
+- sex
+- cp
+- trestbps: resting blood pressure (on admission to the hospital) [mm Hg]
+- cholesterol: serum cholestoral [mg/dl]
+- fbs: fasting blood sugar > 120 mg/dl
+- restecg
+- thalach: maximum heart rate achieved
+- exang: exercise induced angina
+- oldpeak: ST depression induced by exercise relative to rest
+
 ### Context
 
 Heart Disease Dataset (Most comprehensive) Content Heart disease is also known as Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year which is about 32 of all deaths globally.
