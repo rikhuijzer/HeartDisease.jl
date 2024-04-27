@@ -1,11 +1,14 @@
-# HeartDisease.jl
+# heart-disease-dataset
 
 UCI's Heart Disease Data Set.
+
 Summarized into one file by Dustin Carrion at [openml.org](https://openml.org/search?type=data&status=active&id=43672).
 
 ## Description
 
-Context Heart Disease Dataset (Most comprehensive) Content Heart disease is also known as Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year which is about 32 of all deaths globally.
+### Context
+
+Heart Disease Dataset (Most comprehensive) Content Heart disease is also known as Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year which is about 32 of all deaths globally.
 CVDs are a group of disorders of the heart and blood vessels and include coronary heart disease, cerebrovascular disease, rheumatic heart disease, and other conditions.
 Four out of 5CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age.
 We have curated this dataset by combining different datasets already available independently but not combined before.
@@ -19,7 +22,7 @@ Hungarian | 294
 Switzerland | 123
 Long Beach VA | 200
 Stalog (Heart) Data Set | 270
-**Total** | 1190
+**Total** | **1190**
 
 ### Acknowledgements
 
